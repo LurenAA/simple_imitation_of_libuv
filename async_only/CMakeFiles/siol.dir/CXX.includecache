@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/ele/simple_imitation_of_libuv/async_only/uv_io_t.hpp
+
+/home/ele/simple_imitation_of_libuv/async_only/uv_loop_t.cpp
+uv_loop_t.hpp
+/home/ele/simple_imitation_of_libuv/async_only/uv_loop_t.hpp
+exception
+-
+stdexcept
+-
+queue
+-
+sys/epoll.h
+-
+cerrno
+-
+sys/ioctl.h
+-
+sys/eventfd.h
+-
+cassert
+-
+cstring
+-
+
+/home/ele/simple_imitation_of_libuv/async_only/uv_loop_t.hpp
+uv_io_t.hpp
+/home/ele/simple_imitation_of_libuv/async_only/uv_io_t.hpp
+queue
+-
+

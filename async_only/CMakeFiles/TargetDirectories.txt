@@ -1,0 +1,3 @@
+/home/ele/simple_imitation_of_libuv/async_only/CMakeFiles/rebuild_cache.dir
+/home/ele/simple_imitation_of_libuv/async_only/CMakeFiles/siol.dir
+/home/ele/simple_imitation_of_libuv/async_only/CMakeFiles/edit_cache.dir
